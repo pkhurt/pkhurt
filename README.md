@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pkhurt
 - 👀 I’m interested in robotics, blockchains, music, drums and marimba
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Machine Learning and GitHub Actions for CI/CD
+- 💞️ I’m looking to collaborate on a practice App for drummers and percussionists
 - 📫 How to reach me; Just write me a message
 
 <!---
