@@ -6,10 +6,10 @@ Welcome to my GitHub profile! I'm glad you're here. Here's a little overview of 
 
 I'm Peter, a passionate developer from 🇩🇪. With a love for technology, innovation and music, I work on a variety of projects ranging from music practice helper apps to machine learning and data analysis.
 
-- 🌱 I’m currently learning [what you're learning, e.g., "Artificial Intelligence", "Flutter", "React"].
+- 🌱 I’m currently learning GitHub Actions, Deep Learning and constantly working on databases. 
 - 🔭 I’m currently working on [your current project or interest].
 - 👯 I’m looking to collaborate on [topics or projects you're interested in].
-- 💬 Ask me about [topics you like to talk about].
+- 💬 Ask me about music and how to practice, as well as python and github actions.
 - 📫 How to reach me: [your preferred contact method, e.g., "Email" or "LinkedIn"].
 - ⚡ Fun fact: [an interesting fact about you].
 
