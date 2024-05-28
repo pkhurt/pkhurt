@@ -7,11 +7,11 @@ Welcome to my GitHub profile! I'm glad you're here. Here's a little overview of 
 I'm Peter, a passionate developer from 🇩🇪. With a love for technology, innovation and music, I work on a variety of projects ranging from music practice helper apps to machine learning and data analysis.
 
 - 🌱 I’m currently learning GitHub Actions, Deep Learning and constantly working on databases. 
-- 🔭 I’m currently working on [your current project or interest].
-- 👯 I’m looking to collaborate on [topics or projects you're interested in].
+- 🔭 I’m currently working on a practice helper python tool that can act as a call and response as well as a random practice item generator.
+- 👯 I’m looking to collaborate on machine learning projects or QGIS tools.
 - 💬 Ask me about music and how to practice, as well as python and github actions.
-- 📫 How to reach me: [your preferred contact method, e.g., "Email" or "LinkedIn"].
-- ⚡ Fun fact: [an interesting fact about you].
+- 📫 How to reach me: Just send me a message on "LinkedIn".
+- ⚡ Fun fact: I can play Marimba, too.
 
 ## Projects
 
@@ -33,16 +33,16 @@ A brief description of the project. What makes it special? What technologies did
 
 Here are some technologies and tools I regularly work with:
 
-- **Languages:** [e.g., JavaScript, Python, Java]
-- **Frameworks:** [e.g., React, Angular, Django]
-- **Tools:** [e.g., Git, Docker, VSCode]
-- **Other:** [e.g., Machine Learning, Data Analysis]
+- **Languages:** Python, C++, Ruby on Rails, SQL
+- **Frameworks:** Django, ROS, Tensorflow, Eigen, PyQgis
+- **Tools:** Git, Docker, VSCode, QGis, GitHub Actions, Azure
+- **Other:** Machine Learning, Data Analysis
 
 ## Blog & Articles
 
 I occasionally write about my experiences and insights in software development:
 
-- [Article 1](Link to the article)
+- [Article 1](<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7200951952673845250" height="1108" width="504" frameborder="0" allowfullscreen="" title="Eingebetteter Beitrag"></iframe>)
 - [Article 2](Link to the article)
 - [Article 3](Link to the article)
 
