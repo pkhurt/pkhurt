@@ -17,7 +17,7 @@ I'm Peter, a passionate developer from 🇩🇪. With a love for technology, dig
 
 Here are some of my favorite projects:
 
-### Hands on machine learning
+### [Hands on machine learning]
 In this repository I programmed along with exercises of the book [Hands On Machine Learning](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) by [Aurelien Geron](https://www.oreilly.com/search?q=author:%22Aurélien%20Géron%22) to learn more of the world of machine learning using Scikit-Learn, Keras, and TensorFlow. I also applied what I learned to other small examples like a Meme classifier and a spotify music classifier to find out what memes are funny and what music I like based on labelled data.
 
 - [Hands On Machine Learning](https://github.com/pkhurt/hands-on-machine-learning)
