@@ -4,7 +4,7 @@ Willkommen auf meinem GitHub-Profil! Ich freue mich, dass du hier bist. Hier ist
 
 ## Über mich
 
-Ich bin [Dein Name], ein leidenschaftlicher Entwickler aus [Dein Standort]. Mit einer Begeisterung für Technologie und Innovation arbeite ich an einer Vielzahl von Projekten, von Web- und Mobile-Apps bis hin zu Machine Learning und Datenanalyse.
+Ich bin Peter, ein leidenschaftlicher Entwickler aus 🇩🇪. Mit einer Begeisterung für Technologie, Innovation und Musik arbeite ich an einer Vielzahl von Projekten, von Web- und Mobile-Apps bis hin zu Machine Learning und Datenanalyse.
 
 - 🌱 Ich lerne gerade [was du lernst, z.B. "Künstliche Intelligenz", "Flutter", "React"].
 - 🔭 Ich arbeite aktuell an [deinem aktuellen Projekt oder Interesse].
