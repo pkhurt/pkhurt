@@ -42,16 +42,13 @@ Here are some technologies and tools I regularly work with:
 
 I occasionally write about my experiences and insights in software development:
 
-- [Article 1](<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7200951952673845250" height="1108" width="504" frameborder="0" allowfullscreen="" title="Eingebetteter Beitrag"></iframe>)
-- [Article 2](Link to the article)
-- [Article 3](Link to the article)
+- [GitHub Actions (posted on LinkedIn)](https://www.linkedin.com/posts/peter-hurt-891660225_devops-githubactions-cicd-activity-7201152727387697152-IK0O?utm_source=share&utm_medium=member_desktop)
+- [Google Colab (posted on LinkedIn)](https://www.linkedin.com/posts/peter-hurt-891660225_google-colaboratory-python-activity-7197158951136751616-cMUw?utm_source=share&utm_medium=member_desktop)
 
 ## Contact
 
 I welcome feedback, suggestions, and interesting conversations! You can reach me through the following channels:
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-profile)
-- [Email](mailto:your.email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/peter-hurt-891660225/)
 
 Thank you for taking the time to check out my profile! Let's create something amazing together! 🚀
