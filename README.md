@@ -1,68 +1,57 @@
-# Hallo! 👋
+# Hello! 👋
 
-Willkommen auf meinem GitHub-Profil! Ich freue mich, dass du hier bist. Hier ist ein kleiner Überblick über mich und meine Projekte.
+Welcome to my GitHub profile! I'm glad you're here. Here's a little overview of me and my projects.
 
-## Über mich
+## About Me
 
-Ich bin Peter, ein leidenschaftlicher Entwickler aus 🇩🇪. Mit einer Begeisterung für Technologie, Innovation und Musik arbeite ich an einer Vielzahl von Projekten, von Web- und Mobile-Apps bis hin zu Machine Learning und Datenanalyse.
+I'm Peter, a passionate developer from 🇩🇪. With a love for technology, innovation and music, I work on a variety of projects ranging from music practice helper apps to machine learning and data analysis.
 
-- 🌱 Ich lerne gerade [was du lernst, z.B. "Künstliche Intelligenz", "Flutter", "React"].
-- 🔭 Ich arbeite aktuell an [deinem aktuellen Projekt oder Interesse].
-- 👯 Ich suche nach Möglichkeiten zur Zusammenarbeit bei [Themen oder Projekten, die dich interessieren].
-- 💬 Frag mich gerne etwas über [Themen, über die du gerne sprichst].
-- 📫 Du erreichst mich am besten über [deine Kontaktmethode, z.B. "E-Mail" oder "LinkedIn"].
-- ⚡ Fun Fact: [eine interessante Tatsache über dich].
+- 🌱 I’m currently learning [what you're learning, e.g., "Artificial Intelligence", "Flutter", "React"].
+- 🔭 I’m currently working on [your current project or interest].
+- 👯 I’m looking to collaborate on [topics or projects you're interested in].
+- 💬 Ask me about [topics you like to talk about].
+- 📫 How to reach me: [your preferred contact method, e.g., "Email" or "LinkedIn"].
+- ⚡ Fun fact: [an interesting fact about you].
 
-## Projekte
+## Projects
 
-Hier sind einige meiner Lieblingsprojekte:
+Here are some of my favorite projects:
 
-### [Projekt 1]
-Beschreibung des Projekts. Was macht es besonders? Welche Technologien hast du verwendet?
+### [Project 1]
+A brief description of the project. What makes it special? What technologies did you use?
 
-- [Repository Link](https://github.com/dein-username/projekt1)
-- Highlights: [Stichpunkte, was das Projekt besonders macht]
+- [Repository Link](https://github.com/your-username/project1)
+- Highlights: [bullet points of what makes the project stand out]
 
-### [Projekt 2]
-Beschreibung des Projekts. Was macht es besonders? Welche Technologien hast du verwendet?
+### [Project 2]
+A brief description of the project. What makes it special? What technologies did you use?
 
-- [Repository Link](https://github.com/dein-username/projekt2)
-- Highlights: [Stichpunkte, was das Projekt besonders macht]
+- [Repository Link](https://github.com/your-username/project2)
+- Highlights: [bullet points of what makes the project stand out]
 
-## Fähigkeiten
+## Skills
 
-Hier sind einige Technologien und Tools, mit denen ich regelmäßig arbeite:
+Here are some technologies and tools I regularly work with:
 
-- **Sprachen:** [z.B. JavaScript, Python, Java]
-- **Frameworks:** [z.B. React, Angular, Django]
-- **Tools:** [z.B. Git, Docker, VSCode]
-- **Weitere:** [z.B. Machine Learning, Datenanalyse]
+- **Languages:** [e.g., JavaScript, Python, Java]
+- **Frameworks:** [e.g., React, Angular, Django]
+- **Tools:** [e.g., Git, Docker, VSCode]
+- **Other:** [e.g., Machine Learning, Data Analysis]
 
-## Blog & Artikel
+## Blog & Articles
 
-Ich schreibe gelegentlich über meine Erfahrungen und Erkenntnisse in der Softwareentwicklung:
+I occasionally write about my experiences and insights in software development:
 
-- [Artikel 1](Link zum Artikel)
-- [Artikel 2](Link zum Artikel)
-- [Artikel 3](Link zum Artikel)
+- [Article 1](Link to the article)
+- [Article 2](Link to the article)
+- [Article 3](Link to the article)
 
-## Kontakt
+## Contact
 
-Ich freue mich über Feedback, Vorschläge und interessante Gespräche! Du kannst mich über die folgenden Kanäle erreichen:
+I welcome feedback, suggestions, and interesting conversations! You can reach me through the following channels:
 
-- [LinkedIn](https://www.linkedin.com/in/dein-profil)
-- [Twitter](https://twitter.com/dein-profil)
-- [E-Mail](mailto:dein.email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [Twitter](https://twitter.com/your-profile)
+- [Email](mailto:your.email@example.com)
 
-Vielen Dank, dass du dir die Zeit genommen hast, mein Profil anzusehen! Lass uns gemeinsam etwas Großartiges schaffen! 🚀
-
-- 👋 Hi, I’m @pkhurt
-- 👀 I’m interested in robotics, blockchains, music, drums and marimba
-- 🌱 I’m currently learning Machine Learning and GitHub Actions for CI/CD
-- 💞️ I’m looking to collaborate on a practice App for drummers and percussionists
-- 📫 How to reach me; Just write me a message
-
-<!---
-pkhurt/pkhurt is a ✨ special ✨ repository because its `README.md` (this file) appears on the GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Thank you for taking the time to check out my profile! Let's create something amazing together! 🚀
