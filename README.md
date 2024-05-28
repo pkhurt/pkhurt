@@ -4,12 +4,12 @@ Welcome to my GitHub profile! I'm glad you're here. Here's a little overview of 
 
 ## About Me
 
-I'm Peter, a passionate developer from 🇩🇪. With a love for technology, innovation and music, I work on a variety of projects ranging from music practice helper apps to machine learning and data analysis.
+I'm Peter, a passionate developer from 🇩🇪. With a love for technology, digital maps, innovation and music, I work on a variety of projects ranging from music practice helper apps to machine learning and data analysis.
 
 - 🌱 I’m currently learning GitHub Actions, Deep Learning and constantly working on databases. 
 - 🔭 I’m currently working on a practice helper python tool that can act as a call and response as well as a random practice item generator.
 - 👯 I’m looking to collaborate on machine learning projects or QGIS tools.
-- 💬 Ask me about music and how to practice, as well as python and github actions.
+- 💬 Ask me about music and how to practice, digital maps or HD Maps as well as python and github actions.
 - 📫 How to reach me: Just send me a message on "LinkedIn".
 - ⚡ Fun fact: I can play Marimba, too.
 
@@ -17,17 +17,23 @@ I'm Peter, a passionate developer from 🇩🇪. With a love for technology, inn
 
 Here are some of my favorite projects:
 
-### [Project 1]
-A brief description of the project. What makes it special? What technologies did you use?
+### Hands on machine learning
+In this repository I programmed along with exercises of the book [Hands On Machine Learning](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) by [Aurelien Geron](https://www.oreilly.com/search?q=author:%22Aurélien%20Géron%22) to learn more of the world of machine learning using Scikit-Learn, Keras, and TensorFlow. I also applied what I learned to other small examples like a Meme classifier and a spotify music classifier to find out what memes are funny and what music I like based on labelled data.
 
-- [Repository Link](https://github.com/your-username/project1)
-- Highlights: [bullet points of what makes the project stand out]
+- [Hands On Machine Learning](https://github.com/pkhurt/hands-on-machine-learning)
+- Highlights:
+  - Classification Machine Learning algorithms
+  - Meme Classifier
+  - Spotify playlist generator
 
-### [Project 2]
-A brief description of the project. What makes it special? What technologies did you use?
+### [Blockchain]
+In this small project I implemented a blockchain using python and the framework flask. I implemented my own mining algorithm to get to know the topics better.
 
-- [Repository Link](https://github.com/your-username/project2)
-- Highlights: [bullet points of what makes the project stand out]
+- [Blockchain](https://github.com/pkhurt/blockchain)
+- Highlights:
+  - flask server: To keep the user interaction simple I used flask
+  - Transactions have been possible
+  - Mining a new building block for the blockchain was also implemented
 
 ## Skills
 
